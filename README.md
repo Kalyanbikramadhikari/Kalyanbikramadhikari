@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Machine Learning, Deep learning**
 
-- 👨‍💻 All of my projects are available at <h1> [kalyanbikramadhikari.netlify.app](kalyanbikramadhikari.netlify.app)</h1>
+- 👨‍💻 All of my projects are available at <h1> [Portfolio Website](https://kalyanbikramadhikari.netlify.app)</h1>
 
 - 💬 Ask me about **React, HTML, CSS, JS,**
 
